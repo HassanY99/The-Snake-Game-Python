@@ -16,4 +16,4 @@ I made this app using python OOP and turtle module that uses tkinter. This game 
 
 ## INSTRUCTIONS
 * Run the program in your IDE, a seperate window will open where the snake automatically starts moving. Take control by using your keyboard arrows.
-* Avoid collision with walls and yourself and try to eat as much food as possible for a higher score.
+* Avoid collision with walls, yourself and try to eat as much food as possible for a higher score.
